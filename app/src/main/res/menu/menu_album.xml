@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kgaitonde.finalproject.AlbumActivity">
+
+    <item
+        android:id="@+id/action_createAlbum"
+        android:orderInCategory="100"
+        android:title="Create New Album"/>
+
+    <item
+        android:id="@+id/action_allAlbums"
+        android:orderInCategory="100"
+        android:title="Show All Accessible Albums"/>
+
+    <item
+        android:id="@+id/action_ownedByMe"
+        android:orderInCategory="100"
+        android:title="Owned By Me"/>
+
+    <item
+        android:id="@+id/action_sharedWithMe"
+        android:orderInCategory="100"
+        android:title="Shared With Me"/>
+
+    <item
+        android:id="@+id/action_publicAlbums"
+        android:orderInCategory="100"
+        android:title="Public Albums"/>
+
+
+
+
+</menu>

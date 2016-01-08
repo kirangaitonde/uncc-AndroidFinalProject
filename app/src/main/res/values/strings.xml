@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonUsers">People</string>
+    <string name="buttonAlbums">Albums</string>
+    <string name="buttonMessages">Inbox</string>
+    <string name="textWelcome">How are you doing today ?</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="buttonSignIn">Sign In</string>
+    <string name="buttonSignUp">No account yet? Create one</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="buttonSignup">Sign Up</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="checkboxPrivate">Private Profile</string>
+    <string name="checkboxPush">Disable Push Notification</string>
+    <string name="textViewGender">Gender :</string>
+    <string name="switchOff">Male</string>
+    <string name="switchOn">Female</string>
+    <string name="textViewOr">Login with Facebook / Twitter</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="title_activity_create_album">CreateAlbumActivity</string>
+    <string name="title_activity_view_album_actvity">ViewAlbumActvity</string>
+    <string name="title_activity_album_photo_view">AlbumPhotoViewActivity</string>
+    <string name="textViewCreateAlbumHeading">Create New Album</string>
+    <string name="textViewAlbumCreatePrivateInfo">Once you create the album, you can add photos in the album view.
+        Albums are public by default. Check below to make your album private.</string>
+    <string name="checkBoxAlbumCreatePrivate">Mark album as private</string>
+    <string name="buttonCreateAlbum">Create Album</string>
+    <string name="title_activity_album_edit">AlbumEditActivity</string>
+    <string name="textViewEditAlbumHeading">Edit Album</string>
+    <string name="buttonEditAlbum">Edit Album</string>
+    <string name="title_activity_user_profile_view">UserProfileViewActivity</string>
+    <string name="textViewAlbums">Albums Owned:</string>
+    <!--<string name="facebook_app_id">485559704983488</string>-->
+    <string name="title_activity_message_inbox">MessageInboxActivity</string>
+    <string name="title_activity_message_view">MessageViewActivity</string>
+    <string name="title_activity_message_compose">MessageComposeActivity</string>
+    <string name="title_activity_message_reply">MessageReplyActivity</string>
+    <string name="title_activity_message_item_layout">message_item_layout</string>
+    <string name="buttonMessageSend">Message Send</string>
+    <string name="buttonReply">Send Reply</string>
+    <string name="facebook_app_id">1243661702315860</string>
+</resources>
